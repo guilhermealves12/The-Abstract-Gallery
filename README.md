@@ -1,5 +1,5 @@
 <p align= "center">
-<img src=".github/preview.png" alt="Demonstração do projeto" width= "100%" />
+<img src=".github/Cover.png" alt="Demonstração do projeto" width= "100%" />
 </p>
 
 ## 🖥️ Projeto
@@ -18,5 +18,5 @@ Esse projeto foi desenvolvido durante o NLW da Rockeatseat com as seguintes tecn
 ## 🏷️ Layout
 
 Você pode vizualizar o layout do projeto através
-[desse link](<https://www.figma.com/file/vSN4sxqTl3hlNAF4NTnVCc/Galeria-com-Hover-%E2%80%A2-Desafio-20-(Community)?type=design&node-id=6%3A648&t=n98EQhEep3brcSzR-1>)
+[desse link](<https://www.figma.com/file/vSN4sxqTl3hlNAF4NTnVCc/Galeria-com-Hover-%E2%80%A2-Desafio-20-(Community)?type=design&node-id=0%3A1&t=n98EQhEep3brcSzR-1>)
 É necessário ter uma conta no [Figma](https://www.figma.com)
